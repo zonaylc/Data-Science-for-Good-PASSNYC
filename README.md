@@ -6,7 +6,4 @@ Submission template for the Visual Analytics lab project at the Johannes Kepler 
 
 
 ### Dataset
-* What is the dataset about?
-* Where did you get this dataset from (i.e., source of the dataset)?
-
-This dataset is collected from Kaggle, provided by PASSNYC which is a non-for-profit organization that facilitates a collective impact that is dedicated to broadening educational opportunities for New York City's talented and underserved students. And the dataset is a public data used to identify students within New York City’s under-performing school districts. PASSNYC aims to increase the diversity of students taking the Specialized High School Admissions Test (SHSAT) through consulting and collaboration with partners. By focusing efforts in under-performing areas that are historically underrepresented in SHSAT registration, it might help to pave the path to specialized high schools for a more diverse group of students.
+This dataset is collected from Kaggle(https://www.kaggle.com/passnyc/data-science-for-good), provided by PASSNYC which is a non-for-profit organization that facilitates a collective impact that is dedicated to broadening educational opportunities for New York City's talented and underserved students. And the dataset is a public data used to identify students within New York City’s under-performing school districts. PASSNYC aims to increase the diversity of students taking the Specialized High School Admissions Test (SHSAT) through consulting and collaboration with partners. By focusing efforts in under-performing areas that are historically underrepresented in SHSAT registration, it might help to pave the path to specialized high schools for a more diverse group of students.
